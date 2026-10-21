@@ -1,0 +1,5 @@
+region,year,factor_kgco2e_per_kwh,status,source_name,source_url
+Peninsular Malaysia,2024,0.740,provisional,Energy Commission (Suruhanjaya Tenaga) GEF in Malaysia 2022-2024,https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-
+Peninsular Malaysia,2023,0.760,provisional,Energy Commission (Suruhanjaya Tenaga) GEF in Malaysia 2022-2024,https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-
+Sabah,2024,0.539,provisional,Energy Commission (Suruhanjaya Tenaga) GEF in Malaysia 2022-2024,https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-
+Sarawak,2024,0.199,provisional,Sarawak Energy Berhad data via Energy Commission GEF 2022-2024,https://myenergystats.st.gov.my/documents/d/guest/grid-emission-factor-gef-in-malaysia-2022-2024-provisional-

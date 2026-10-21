@@ -1,0 +1,25 @@
+site,month,usage,unit,bill_rm
+KL Office,Jan-2025,12400,kWh,5208
+KL Office,Feb-2025,11850,kWh,4977
+KL Office,Mar-2025,12900,kwh,5418
+KL Office,Apr-2025,13.1,MWh,5502
+KL Office,May-2025,"13,250",kWh,5565
+KL Office,Jun-2025,12700,kWh,5334
+KL Office,Jul-2025,12950,kWh,5439
+KL Office,Aug-2025,128500,kWh,5397
+KL Office,Sep-2025,12600,kWh,5292
+KL Office,Oct-2025,N/A,kWh,5460
+KL Office,Nov-2025,12300,kWh,5166
+KL Office,Dec-2025,12500,kWh,5250
+KL Office,Dec-2025,12500,kWh,5250
+Puchong Warehouse,Jan-2025,48200,kWh,21690
+Puchong Warehouse,Feb-2025,46900,kWh,21105
+puchong warehouse,2025-03,51000,kWh,22950
+Puchong Warehouse,Apr-2025,49500,kWh,22275
+Puchong Warehouse ,May-2025,50100,kWh,22545
+Puchong Warehouse,Jul-2025,52300,kWh,23535
+Puchong Warehose,Aug-2025,51800,kWh,23310
+Puchong Warehouse,Sep-2025,49.9,MWh,22455
+Puchong Warehouse,Oct-2025,50400,kW,22680
+Puchong Warehouse,Nov-2025,-3200,kWh,-1440
+Puchong Warehouse,Dec-2025,48800,kWh,21960
